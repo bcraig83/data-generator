@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace DataGenerator.Framework
+namespace DataGenerator.Framework.Random
 {
     public class RandomObjectProvider<T> : IObjectProvider<T>
     {

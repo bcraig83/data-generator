@@ -1,4 +1,4 @@
-using DataGenerator.Framework;
+using DataGenerator.Framework.Random;
 using DataGenerator.SampleProject.Invalid;
 using DataGenerator.SampleProject.Models;
 using DataGenerator.SampleProject.Valid;
