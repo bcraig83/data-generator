@@ -2,7 +2,7 @@
 using DataGenerator.SampleProject.Models;
 using System.Collections.Generic;
 
-namespace DataGenerator.SampleProject
+namespace DataGenerator.SampleProject.Valid
 {
     public class CarListProvider : BaseObjectListProvider<Car>
     {
