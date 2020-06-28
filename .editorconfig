@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# S3442: "abstract" classes should not have "public" constructors
+dotnet_diagnostic.S3442.severity = none
