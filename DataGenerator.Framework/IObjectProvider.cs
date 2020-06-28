@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DataGenerator.Framework
+﻿namespace DataGenerator.Framework
 {
-    interface IObjectProvider
+    public interface IObjectProvider<out T>
     {
+        T Fetch();
     }
 }
