@@ -7,6 +7,8 @@
     <AssemblyVersion>1.0.2.0</AssemblyVersion>
     <FileVersion>1.0.2.0</FileVersion>
     <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <RepositoryUrl>https://github.com/bcraig83/data-generator</RepositoryUrl>
+    <RepositoryType>GIT</RepositoryType>
   </PropertyGroup>
 
 </Project>
